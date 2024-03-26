@@ -1,0 +1,113 @@
+group_name,speaker_groups,EER,"DCF (0.05, 1, 1)",EER ratio,"DCF ratio (0.05, 1, 1)"
+thresholds,thresholds,-1.0963685512542725,-1.023943305015564,-1.0963685512542725,-1.023943305015564
+average,average,2.402282495063306,0.007747562304771538,1.0,1.0
+m,Gender,2.2890027941747935,0.0071030959035671875,0.9528449709302289,0.9168168804776905
+f,Gender,2.564328827079877,0.0086688849006159,1.0674551524850124,1.1189177394903866
+Ireland,Nationality,2.278225806451613,0.007540322580645161,0.9483588258805409,0.9732509767622335
+India,Nationality,3.7692690203878665,0.013913031825358302,1.569036542593854,1.7957947646048098
+USA,Nationality,1.959199254493808,0.0067659320405399435,0.8155573953188126,0.8732981774632478
+Australia,Nationality,2.861098292570374,0.007481541301338255,1.1909916083765897,0.9656639091150713
+Canada,Nationality,3.0919296954081164,0.008430149452730608,1.2870799757156106,1.0881034732097192
+UK,Nationality,2.3501054534498342,0.008790138332782773,0.9782802223632334,1.1345682663783339
+Norway,Nationality,6.767223807582552,0.017325723603750513,2.816997510279997,2.2362806418581513
+Italy,Nationality,4.021937842778794,0.01381177966775296,1.6742151895307409,1.7827258593643855
+Sudan,Nationality,NaN,NaN,NaN,NaN
+Mexico,Nationality,2.743362831858407,0.004469026548672567,1.1419817767044558,0.5768300238024805
+China,Nationality,NaN,NaN,NaN,NaN
+Switzerland,Nationality,NaN,NaN,NaN,NaN
+Guyana,Nationality,NaN,NaN,NaN,NaN
+Philippines,Nationality,NaN,NaN,NaN,NaN
+New Zealand,Nationality,1.4380530973451326,0.005166326455776659,0.5986194797241098,0.6668325148666235
+Germany,Nationality,6.8471337579617835,0.010350318471337579,2.850261687387996,1.3359451740017716
+Portugal,Nationality,NaN,NaN,NaN,NaN
+Netherlands,Nationality,NaN,NaN,NaN,NaN
+Spain,Nationality,NaN,NaN,NaN,NaN
+France,Nationality,NaN,NaN,NaN,NaN
+Pakistan,Nationality,NaN,NaN,NaN,NaN
+Croatia,Nationality,NaN,NaN,NaN,NaN
+South Korea,Nationality,NaN,NaN,NaN,NaN
+Sweden,Nationality,NaN,NaN,NaN,NaN
+Russia,Nationality,NaN,NaN,NaN,NaN
+Poland,Nationality,NaN,NaN,NaN,NaN
+Sri Lanka,Nationality,NaN,NaN,NaN,NaN
+Singapore,Nationality,NaN,NaN,NaN,NaN
+Chile,Nationality,NaN,NaN,NaN,NaN
+Israel,Nationality,NaN,NaN,NaN,NaN
+Brazil,Nationality,NaN,NaN,NaN,NaN
+Trinidad and Tobago,Nationality,NaN,NaN,NaN,NaN
+Denmark,Nationality,NaN,NaN,NaN,NaN
+Austria,Nationality,NaN,NaN,NaN,NaN
+South Africa,Nationality,NaN,NaN,NaN,NaN
+Iran,Nationality,NaN,NaN,NaN,NaN
+m_Ireland,Gender_Nationality,2.477017364657814,0.008082226762002043,1.031109942210414,1.0431960975679269
+m_India,Gender_Nationality,2.229519529899758,0.0094519735864128,0.9280838263116116,1.2199932333027583
+m_USA,Gender_Nationality,1.8792039387005064,0.006474971181979554,0.7822576830835979,0.8357430282286048
+m_Australia,Gender_Nationality,2.879142952795447,0.006988617341814531,1.1985030731032216,0.9020408054686322
+m_Canada,Gender_Nationality,2.4849260003654305,0.00565853703760087,1.0344020761388208,0.7303635408154011
+m_UK,Gender_Nationality,2.214757119923896,0.007378229500461697,0.921938666445443,0.9523291598336192
+m_Norway,Gender_Nationality,7.595307917888563,0.0199266862170088,3.1617047260249085,2.5719943168106476
+m_Italy,Gender_Nationality,NaN,NaN,NaN,NaN
+m_Sudan,Gender_Nationality,NaN,NaN,NaN,NaN
+m_Mexico,Gender_Nationality,2.743362831858407,0.004469026548672567,1.1419817767044558,0.5768300238024805
+m_China,Gender_Nationality,NaN,NaN,NaN,NaN
+m_Switzerland,Gender_Nationality,NaN,NaN,NaN,NaN
+m_Guyana,Gender_Nationality,NaN,NaN,NaN,NaN
+m_Philippines,Gender_Nationality,NaN,NaN,NaN,NaN
+m_New Zealand,Gender_Nationality,1.4380530973451326,0.005166326455776659,0.5986194797241098,0.6668325148666235
+m_Germany,Gender_Nationality,NaN,NaN,NaN,NaN
+m_Portugal,Gender_Nationality,NaN,NaN,NaN,NaN
+m_Netherlands,Gender_Nationality,NaN,NaN,NaN,NaN
+m_Spain,Gender_Nationality,NaN,NaN,NaN,NaN
+m_France,Gender_Nationality,NaN,NaN,NaN,NaN
+m_Pakistan,Gender_Nationality,NaN,NaN,NaN,NaN
+m_Croatia,Gender_Nationality,NaN,NaN,NaN,NaN
+m_South Korea,Gender_Nationality,NaN,NaN,NaN,NaN
+m_Sweden,Gender_Nationality,NaN,NaN,NaN,NaN
+m_Russia,Gender_Nationality,NaN,NaN,NaN,NaN
+m_Poland,Gender_Nationality,NaN,NaN,NaN,NaN
+m_Sri Lanka,Gender_Nationality,NaN,NaN,NaN,NaN
+m_Singapore,Gender_Nationality,NaN,NaN,NaN,NaN
+m_Chile,Gender_Nationality,NaN,NaN,NaN,NaN
+m_Israel,Gender_Nationality,NaN,NaN,NaN,NaN
+m_Brazil,Gender_Nationality,NaN,NaN,NaN,NaN
+m_Trinidad and Tobago,Gender_Nationality,NaN,NaN,NaN,NaN
+m_Denmark,Gender_Nationality,NaN,NaN,NaN,NaN
+m_Austria,Gender_Nationality,NaN,NaN,NaN,NaN
+m_South Africa,Gender_Nationality,NaN,NaN,NaN,NaN
+m_Iran,Gender_Nationality,NaN,NaN,NaN,NaN
+f_Ireland,Gender_Nationality,1.532567049808429,0.005507662835249042,0.6379628761221282,0.7108897764987323
+f_India,Gender_Nationality,5.625879043600563,0.019962637455320946,2.341889038929332,2.5766346458454983
+f_USA,Gender_Nationality,2.0075688846263513,0.007146617976593851,0.8356922588213119,0.9224343987775897
+f_Australia,Gender_Nationality,2.5241276911655532,0.00892724573125464,1.050720594414953,1.152265109989056
+f_Canada,Gender_Nationality,3.6707452725250276,0.011234705228031145,1.5280239855505813,1.4500954992142443
+f_UK,Gender_Nationality,2.5839926024863864,0.011278639679441076,1.0756406075457383,1.4557662443701591
+f_Norway,Gender_Nationality,4.879679144385027,0.011397058823529413,2.0312678273320373,1.4710509415987836
+f_Italy,Gender_Nationality,4.021937842778794,0.01381177966775296,1.6742151895307409,1.7827258593643855
+f_Sudan,Gender_Nationality,NaN,NaN,NaN,NaN
+f_Mexico,Gender_Nationality,NaN,NaN,NaN,NaN
+f_China,Gender_Nationality,NaN,NaN,NaN,NaN
+f_Switzerland,Gender_Nationality,NaN,NaN,NaN,NaN
+f_Guyana,Gender_Nationality,NaN,NaN,NaN,NaN
+f_Philippines,Gender_Nationality,NaN,NaN,NaN,NaN
+f_New Zealand,Gender_Nationality,NaN,NaN,NaN,NaN
+f_Germany,Gender_Nationality,6.8471337579617835,0.010350318471337579,2.850261687387996,1.3359451740017716
+f_Portugal,Gender_Nationality,NaN,NaN,NaN,NaN
+f_Netherlands,Gender_Nationality,NaN,NaN,NaN,NaN
+f_Spain,Gender_Nationality,NaN,NaN,NaN,NaN
+f_France,Gender_Nationality,NaN,NaN,NaN,NaN
+f_Pakistan,Gender_Nationality,NaN,NaN,NaN,NaN
+f_Croatia,Gender_Nationality,NaN,NaN,NaN,NaN
+f_South Korea,Gender_Nationality,NaN,NaN,NaN,NaN
+f_Sweden,Gender_Nationality,NaN,NaN,NaN,NaN
+f_Russia,Gender_Nationality,NaN,NaN,NaN,NaN
+f_Poland,Gender_Nationality,NaN,NaN,NaN,NaN
+f_Sri Lanka,Gender_Nationality,NaN,NaN,NaN,NaN
+f_Singapore,Gender_Nationality,NaN,NaN,NaN,NaN
+f_Chile,Gender_Nationality,NaN,NaN,NaN,NaN
+f_Israel,Gender_Nationality,NaN,NaN,NaN,NaN
+f_Brazil,Gender_Nationality,NaN,NaN,NaN,NaN
+f_Trinidad and Tobago,Gender_Nationality,NaN,NaN,NaN,NaN
+f_Denmark,Gender_Nationality,NaN,NaN,NaN,NaN
+f_Austria,Gender_Nationality,NaN,NaN,NaN,NaN
+f_South Africa,Gender_Nationality,NaN,NaN,NaN,NaN
+f_Iran,Gender_Nationality,NaN,NaN,NaN,NaN
