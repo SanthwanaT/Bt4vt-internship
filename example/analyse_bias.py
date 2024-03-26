@@ -19,3 +19,30 @@ plt.xticks(rotation=45, ha="right")
 plt.legend(title="Gender")
 plt.tight_layout()
 plt.show()
+
+
+
+# Plot the number of individual speakers for each gender
+plt.figure(figsize=(8, 6))
+
+# Plot: Distribution of Genders
+gender_counts = vox_meta['Gender'].value_counts()
+gender_counts.plot(kind='bar')
+plt.title('Distribution of Genders')
+plt.xlabel('Gender')
+plt.ylabel('Number of Speakers')
+
+plt.tight_layout()
+plt.show()
+
+set_counts = vox_meta['Set'].value_counts()
+plt.figure(figsize=(8, 6))
+set_counts.plot(kind='bar')
+plt.title('Distribution of Speakers Across Sets')
+plt.xlabel('Set')
+plt.ylabel('Number of Speakers')
+plt.xticks(rotation=45)  # Rotate x-axis labels for better readability
+plt.tight_layout()
+plt.show()
+
+
